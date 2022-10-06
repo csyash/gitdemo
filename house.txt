@@ -1,1 +1,4 @@
-gryffindor
+Gryffindor
+Slytherin
+Ravenclaw
+Hufflepuff
